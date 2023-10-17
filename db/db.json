@@ -1,0 +1,39 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Dheli",
+      "rating": "4",
+      "email": "mcdonald@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "address": "Agra",
+      "rating": "4.3",
+      "email": "burggerking@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Sweets",
+      "address": "Lucknow",
+      "rating": "3.5",
+      "email": "Sweets@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "ABC",
+      "address": "ABC",
+      "rating": "3.5",
+      "email": "abc@gmail.com"
+    }
+  ]
+}
