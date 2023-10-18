@@ -34,6 +34,20 @@
       "address": "ABC",
       "rating": "3.5",
       "email": "abc@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "address": "Ambala",
+      "rating": "5.0",
+      "email": "haldi@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "KFC",
+      "address": "Hisar",
+      "rating": "4.8",
+      "email": "kfc@test.com"
     }
   ]
 }
