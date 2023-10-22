@@ -4,14 +4,14 @@
       "id": 1,
       "name": "Pizza Hut",
       "address": "Noida",
-      "rating": "4.5",
+      "rating": "4.3",
       "email": "pizzahut@gmail.com"
     },
     {
       "id": 2,
       "name": "McDonald",
       "address": "Dheli",
-      "rating": "4",
+      "rating": "3.8",
       "email": "mcdonald@gmail.com"
     },
     {
@@ -43,11 +43,18 @@
       "email": "haldi@gmail.com"
     },
     {
-      "id": "7",
+      "id": 6,
       "name": "KFC",
       "address": "Hisar",
       "rating": "4.8",
       "email": "kfc@test.com"
+    },
+    {
+      "id": 7,
+      "name": "Domino's",
+      "address": "Noida Sector 15",
+      "rating": "4.8",
+      "email": "domins@gmail.com"
     }
   ]
 }
