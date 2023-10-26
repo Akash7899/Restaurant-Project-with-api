@@ -55,6 +55,13 @@
       "address": "test Add",
       "rating": "3.5",
       "email": "test@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "WQ Resto",
+      "address": "chandighar",
+      "rating": "4.0",
+      "email": "wqresto@gmail.com"
     }
   ]
 }
