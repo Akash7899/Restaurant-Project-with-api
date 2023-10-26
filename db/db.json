@@ -10,7 +10,7 @@
     {
       "id": 2,
       "name": "McDonald",
-      "address": "Dheli",
+      "address": "Delhi",
       "rating": "3.8",
       "email": "mcdonald@gmail.com"
     },
@@ -20,13 +20,6 @@
       "address": "Agra",
       "rating": "4.3",
       "email": "burggerking@gmail.com"
-    },
-    {
-      "id": 4,
-      "name": "Sweets",
-      "address": "Lucknow",
-      "rating": "3.5",
-      "email": "Sweets@gmail.com"
     },
     {
       "id": 4,
@@ -55,6 +48,13 @@
       "address": "Noida Sector 15",
       "rating": "4.8",
       "email": "domins@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "test Resto",
+      "address": "test Add",
+      "rating": "3.5",
+      "email": "test@gmail.com"
     }
   ]
 }
