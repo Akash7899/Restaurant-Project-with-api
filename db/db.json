@@ -1,4 +1,10 @@
 {
+  "login": [
+    {
+      "name": "Aakash",
+      "password": "aakash@123"
+    }
+  ],
   "restaurant": [
     {
       "id": 1,
@@ -62,6 +68,13 @@
       "address": "chandighar",
       "rating": "4.0",
       "email": "wqresto@gmail.com"
+    },
+    {
+      "id": "10",
+      "name": "JW Restaurant",
+      "address": "Mohali Punjab",
+      "rating": "2.3",
+      "email": "jw@gmail.com"
     }
   ]
 }
