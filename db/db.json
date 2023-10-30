@@ -1,17 +1,23 @@
 {
+  "login": [
+    {
+      "name": "Aakash",
+      "password": "aakash@123"
+    }
+  ],
   "restaurant": [
     {
       "id": 1,
       "name": "Pizza Hut",
       "address": "Noida",
-      "rating": "4.5",
+      "rating": "4.3",
       "email": "pizzahut@gmail.com"
     },
     {
       "id": 2,
       "name": "McDonald",
-      "address": "Dheli",
-      "rating": "4",
+      "address": "Delhi",
+      "rating": "3.8",
       "email": "mcdonald@gmail.com"
     },
     {
@@ -23,17 +29,52 @@
     },
     {
       "id": 4,
-      "name": "Sweets",
-      "address": "Lucknow",
-      "rating": "3.5",
-      "email": "Sweets@gmail.com"
-    },
-    {
-      "id": 4,
       "name": "ABC",
       "address": "ABC",
       "rating": "3.5",
       "email": "abc@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "address": "Ambala",
+      "rating": "5.0",
+      "email": "haldi@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "KFC",
+      "address": "Hisar",
+      "rating": "4.8",
+      "email": "kfc@test.com"
+    },
+    {
+      "id": 7,
+      "name": "Domino's",
+      "address": "Noida Sector 15",
+      "rating": "4.8",
+      "email": "domins@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "test Resto",
+      "address": "test Add",
+      "rating": "3.5",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "WQ Resto",
+      "address": "chandighar",
+      "rating": "4.0",
+      "email": "wqresto@gmail.com"
+    },
+    {
+      "id": "10",
+      "name": "JW Restaurant",
+      "address": "Mohali Punjab",
+      "rating": "2.3",
+      "email": "jw@gmail.com"
     }
   ]
 }
